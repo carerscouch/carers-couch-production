@@ -29,7 +29,7 @@
 
                     <!-- Branding Image -->
                     <a class="navbar-brand" href="{{ url('/') }}">
-                        <img src="url(http://carerscouch.com/wp-content/themes/dynamik/css/images/logo.png)" alt="cc" height:30px width:50px>
+                        <img src="http://carerscouch.com/wp-content/themes/dynamik/css/images/logo.png" style="height:30px width:50px">
                     </a>
                 </div>
 
