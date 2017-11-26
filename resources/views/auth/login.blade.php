@@ -44,7 +44,7 @@
 
 </div>
 
-<form id="signIn" onsubmit="return validateLogInForm()" class="form-horizontal" method="POST" action="{{ route('login') }}">
+<form id="signIn" class="form-horizontal" method="POST" action="{{ route('login') }}">
     {{ csrf_field() }}
 <header class="header_index" style="min-height: 500px">
 
